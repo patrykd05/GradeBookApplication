@@ -6,7 +6,7 @@ using Microsoft.VisualBasic;
 
 namespace GradeBook.GradeBooks
 {
-    internal class RankedGradeBook : BaseGradeBook
+    public class RankedGradeBook : BaseGradeBook
     {
 
         public RankedGradeBook(string name) : base(name)
